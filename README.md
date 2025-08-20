@@ -1,1 +1,1 @@
-Simple snake and Ladder game
+Simple snake and Apple game
